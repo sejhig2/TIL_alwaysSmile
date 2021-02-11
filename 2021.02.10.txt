@@ -1,0 +1,11 @@
+[7.1 매개변수와 실인자의 구분**미리보기**04:48]
+(https://www.notion.so/7-1-04-48-aa5d415614174136a9d041f6435f91eb)
+
+[7.2 값에 의한 전달05:59]
+(https://www.notion.so/7-2-05-59-6b993b67407344d1a4060ce17114121c)
+
+[7.3 참조에 의한 인수 전달 call by reference 20:01]
+(https://www.notion.so/7-3-call-by-reference-20-01-9ed2b971950e4c1ca65859ef30a6abb5)
+
+[7.4 주소에 의한 인수 전달 call by address13:27]
+(https://www.notion.so/7-4-call-by-address13-27-77af4b6db6c945178d66af19f8a2022e)
